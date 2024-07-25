@@ -1,0 +1,25 @@
+{
+  "name": "HFM-monthly-promo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.3",
+    "eslint": "^8.57.0",
+    "next": "^14.2.5",
+    "next-seo": "^4.18.0",
+    "npm": "^10.8.2",
+    "postcss": "^8.2.4",
+    "prettier": "^3.3.3",
+    "prettier-eslint": "^16.3.0",
+    "react": "^18",
+    "react-countup": "^4.3.3",
+    "react-dom": "^18",
+    "react-visibility-sensor": "^5.1.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
